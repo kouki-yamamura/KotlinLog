@@ -20,8 +20,10 @@ class MainActivity : AppCompatActivity() {
         human2.say()
         human.think()
 
-        val human3 = Human("山村",27,"柔道")
-        human2.say()
-        human.think()
+
+
+
     }
+
+
 }
